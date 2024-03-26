@@ -18,7 +18,7 @@ Skills: PHP / LARAVEL / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Md-Sharif-Hosen)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sharif-Hosen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Sharif-Hosen)]
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Md-Sharif-Hosen&show_icons=true&count_private=true)  
 
