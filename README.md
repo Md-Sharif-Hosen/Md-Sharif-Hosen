@@ -8,7 +8,7 @@ I’m a  Web developer who is passionate about making error-free websites with 1
 Skills: PHP / LARAVEL / JS / HTML / CSS
 
 - 🔭 I’m currently working on Web Devoloping 
-- 🌱 I’m currently learning PHP 
+- 🌱 I’m currently learning Javascript Framework 
 - 👯 I’m looking to collaborate on github 
 
 
