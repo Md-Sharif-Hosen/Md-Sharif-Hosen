@@ -1,5 +1,5 @@
 ![Web Devoloper](https://pbs.twimg.com/media/FiRGS97VUAEeYV6?format=jpg&name=small)
-![Web Devoloper] <img align="center" alt="coding" width="600" src="https://pbs.twimg.com/media/FiRGS97VUAEeYV6?format=jpg&name=small">
+![Web Devoloper] <img align="center" alt="coding" width="600" height="400" src="https://pbs.twimg.com/media/FiRGS97VUAEeYV6?format=jpg&name=small">
 
 
 
