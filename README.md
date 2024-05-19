@@ -41,6 +41,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=md-sharif-hosen&" alt="md-sharif-hosen" /></p>
 
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
+#Snake eating your contributions.
 
 # ![snake gif](https://github.com/md-sharif-hosen/md-sharif-hosen/blob/output/github-contribution-grid-snake.gif)
