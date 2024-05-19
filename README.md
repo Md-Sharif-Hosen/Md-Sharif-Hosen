@@ -5,7 +5,7 @@
 <h1 align="center">Hi there 👋, I'm Mohammad Sharif Hosen</h1>
 <h3 align="center">I’m a Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. Over the past years, I created 100s of websites for my clients. I pride myself on doing quality work and maintain excellent communication.</h3>
 <!-- <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">  -->
-<img align="right" alt="coding" width="400" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif"> 
+<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=md-sharif-hosen&label=Profile%20views&color=0e75b6&style=flat" alt="md-sharif-hosen" /> </p>
 
 <p align="left"> <a href="https://twitter.com/mdsharifhosen39" target="blank"><img src="https://img.shields.io/twitter/follow/mdsharifhosen39?logo=twitter&style=for-the-badge" alt="mdsharifhosen39" /></a> </p>
